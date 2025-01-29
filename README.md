@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/LorenzoPicken/Death-Dealt-Hand">Death-Dealt-Hand</a>
+<video width="640" height="360" controls>
+    <source src="Recording 2025-01-28 205747.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
