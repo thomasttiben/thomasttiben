@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/LorenzoPicken/Death-Dealt-Hand">Death-Dealt-Hand</a>
 ## Video Preview
 
+
+https://github.com/user-attachments/assets/87032d45-3214-4da0-b5ba-331297bca5fa
+
+
 ## Death Dealt Hand - Screenshots
 
 ### Main Menu
